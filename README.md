@@ -34,6 +34,9 @@
   
 <br>
 <br>
+<p>Todos os métodos passam pela MIDDLEWARE (url_method). Quando chamada são exibidos no console.log o método, e a url.</p>
+<br>
+<br>
 <p>Tecnologias utilizadas: Node.js, Express, Nodemon, uuid</p>
 
 
